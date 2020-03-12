@@ -3,7 +3,7 @@ module github.com/Assetsadapter/ufo-adapter
 go 1.12
 
 require (
-	github.com/Assetsadapter/beam-adapter v1.0.8
+	github.com/Assetsadapter/beam-adapter v1.0.9
 	github.com/astaxie/beego v1.11.1
 	github.com/blocktree/go-owcrypt v1.0.1
 	github.com/blocktree/openwallet v1.5.2
