@@ -1,0 +1,8 @@
+*.key
+build
+go.sum
+*.db
+.idea
+*.log
+.vscode
+ufo-adapter
